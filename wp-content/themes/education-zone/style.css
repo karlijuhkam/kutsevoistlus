@@ -2094,7 +2094,7 @@ body.custom-background .site {
     color: #474b4e;
     font-weight: 700;
     display: inline-block;
-    margin-bottom: 0;
+    margin-bottom: 5px;
 }
 
 #primary .post,

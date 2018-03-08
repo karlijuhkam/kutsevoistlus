@@ -12,9 +12,11 @@
         $ed_date       = get_theme_mod('education_zone_ed_blog_date','1');
         $read_more     = get_theme_mod( 'education_zone_blog_section_readmore' , __( 'Read More', 'education-zone' ) );
 
-        education_zone_get_section_header( $section_title ); ?>
+        education_zone_get_section_header( $section_title );
+         ?>
 
 	<div class="row">
+    <h1 class="section-title">Blogi</h1>
 	<?php
 
         $args = array(
